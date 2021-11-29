@@ -13,4 +13,4 @@ git clone faz uma cópia do repositório remoto no repositorio local;
 
 git init inicializa um repositorio git na pasta em questão;
 
-Arquivos Markdown são arquivos que usam caracteres especiais como "#" para formatar o texto
+Arquivos Markdown são arquivos que usam caracteres especiais como "#" para formatar o texto;
